@@ -1,0 +1,409 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "dobleh",
+      "password": "maungapain",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "budi",
+      "password": "rahasia",
+      "role": "user"
+    },
+    {
+      "username": "handy",
+      "password": "123",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "tes",
+      "password": "123",
+      "role": "user",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Ghost of Tsushima Digital Deluxe Edition",
+      "image": "../image/products/ghostoftsushima.jfif",
+      "stok": 200,
+      "kategoriId": 1,
+      "harga": 990000,
+      "deskripsi": "Description\nPre-order and receive the bonus after checking out:\n- Ghost of Tsushima Jin Dynamic Theme\n\nPre-order and receive the bonuses on launch date:\n- Ghost of Tsushima Digital Mini Soundtrack\n- Ghost of Tsushima Jin Avatar",
+      "id": 2
+    },
+    {
+      "name": "FINAL FANTASY VII REMAKE Digital Deluxe Edition",
+      "image": "../image/products/ffviiremake.jfif",
+      "stok": 100,
+      "kategoriId": 7,
+      "harga": 1189000,
+      "deskripsi": "Pre-order and receive the bonuses on launch date:\n- Summon Materia : Choco Chic\n- PS4™ Dynamic Theme\nThese bonuses will also be offered as early purchase bonuses.",
+      "id": 4
+    },
+    {
+      "name": "RESIDENT EVIL 3",
+      "image": "../image/products/res3.jfif",
+      "stok": 300,
+      "kategoriId": 5,
+      "harga": 841000,
+      "deskripsi": "Pre-order and receive the bonus after checking out:\n- Resident Evil 3 Special Theme\n\nPre-order and receive the bonus on launch date:\n- Classic Costume Pack",
+      "id": 5
+    },
+    {
+      "name": "The Last of Us™ Part II Digital Deluxe Edition",
+      "image": "../image/products/tlou2.jfif",
+      "stok": 150,
+      "kategoriId": 5,
+      "harga": 1039000,
+      "deskripsi": "Pre-order and receive the bonus after checking out:\n- Ellie’s Tattoo\n\nPre-order and receive the bonuses on launch date:\n- Ammo Capacity Upgrade\n- Crafting Training Manual",
+      "id": 6
+    },
+    {
+      "name": "Nioh 2 Deluxe Edition",
+      "image": "../image/products/nioh2.jfif",
+      "stok": 170,
+      "kategoriId": 1,
+      "harga": 1139000,
+      "deskripsi": "Nioh 2 Deluxe Edition includes:\n• Season Pass.\n• Season Pass bonus avatar.\n\nDeluxe Edition Bonuses:\n• Demon Horde weapons (9 types).\n• Kodama Netsuke charm.\n• PS4™ theme (Deluxe Edition bonus).\n• PSN avatar set for PS4™ (Deluxe Edition bonus).",
+      "id": 7
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "image": "../image/products/cyberpunk.jfif",
+      "stok": 150,
+      "kategoriId": 1,
+      "harga": 740000,
+      "deskripsi": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality. You can customize your character’s cyberware, skillset and playstyle, and explore a vast city where the choices you make shape the story and the world around you.",
+      "id": 8
+    },
+    {
+      "name": "EA SPORTS™ FIFA 20 Ultimate Edition",
+      "image": "../image/products/fifa20.jfif",
+      "stok": 300,
+      "kategoriId": 9,
+      "harga": 1409000,
+      "deskripsi": "Powered by Frostbite™, EA SPORTS™ FIFA 20 for PlayStation®4 brings two sides of The World’s Game to life - the prestige of the professional stage and an all-new authentic street football experience in EA SPORTS VOLTA FOOTBALL. FIFA 20 innovates across the game, FOOTBALL INTELLIGENCE unlocks an unprecedented platform for gameplay realism, FIFA Ultimate Team™ offers more ways to build your dream squad, and EA SPORTS VOLTA FOOTBALL returns the game to the street, with an authentic form of small-sided football.\n\nFIFA 20 Ultimate Edition includes:\n• 10 Rare Gold Packs\n• Loan ICON Player Pick - choose 1 of 5 loan ICON items (mid version) for 5 FUT matches\n• Special Edition FUT Kits",
+      "id": 9
+    },
+    {
+      "name": "Red Dead Redemption 2: Special Edition",
+      "image": "../image/products/rdr2.jfif",
+      "stok": 200,
+      "kategoriId": 2,
+      "harga": 1040000,
+      "deskripsi": "The highest rated game on PlayStation®4.*\n\nThe Red Dead Redemption 2: Special Edition delivers exclusive content for Story Mode including:\n• Bank Robbery Mission & Gang Hideout\n• Dappled Black Thoroughbred\n• Talisman & Medallion Gameplay Bonuses\n• Gameplay Boosts, Cash Bonuses & Discounts\n• The Nuevo Paraiso Gunslinger Outfit\n\nPlus get free access to Additional Weapons in Story Mode.",
+      "id": 10
+    },
+    {
+      "name": "Call of Duty®: Black Ops 4 - Digital Deluxe",
+      "image": "../image/products/cod_bo_IIII.jfif",
+      "stok": 230,
+      "kategoriId": 8,
+      "harga": 1074000,
+      "deskripsi": "Digital Deluxe Edition includes:\n\n- Call of Duty®: Black Ops 4\n- 2,400 Call of Duty® Points*\n- Digital Edition Bonus Items\n- Digital Deluxe Bonus Items\n- Black Ops Pass**",
+      "id": 11
+    },
+    {
+      "name": "Gran Turismo Sport PlayStation®Hits",
+      "image": "../image/products/granturismo.jfif",
+      "stok": 200,
+      "kategoriId": 6,
+      "harga": 309000,
+      "deskripsi": "The ultimate Gran Turismo has finally been realized. With next-gen photorealistic graphics that push the PlayStation®4 to its limits, this latest installment delivers a rich driving-simulation experience to all kinds of players. You can now enjoy “Scapes,” a new photo mode that challenges the world of photography at a fundamental level, and “Sports Mode,” which through a partnership with the FIA (Federation Internationale de l'Automobile) gives players the thrill of viewing world championship events. Packed with full-spec features and greater access for newer players, the latest entry in the series Gran Turismo Sport is approaching the start line.",
+      "id": 13
+    },
+    {
+      "name": "MONSTER HUNTER: WORLD™",
+      "image": "../image/products/monhun.jfif",
+      "stok": 9999999999,
+      "kategoriId": 1,
+      "harga": 415000,
+      "deskripsi": "Welcome to a new world! Take on the role of a hunter and slay ferocious monsters in a living, breathing ecosystem where you can use the landscape and its diverse inhabitants to get the upper hand. Hunt alone or in co-op with up to three other players, and use materials collected from fallen foes to craft new gear and take on even bigger, badder beasts!\n\nCopyright:\n©CAPCOM CO., LTD. 2018 ALL RIGHTS RESERVED.",
+      "id": 14
+    },
+    {
+      "name": "Shenmue 1 ＆ 2",
+      "image": "../image/products/shenmue12.jfif",
+      "stok": 100,
+      "kategoriId": 3,
+      "harga": 445000,
+      "deskripsi": "Shenmue I & II, first released in 2000 and 2001 for Dreamcast, is an open world action-adventure game including Jiu-Jitsu fight, detective investigation, role-playing and good old mini-games.\nIt led a trend of games these days in various aspects, also is a pioneer of open-world genre and \"QTE (Quick Timer Event)\". It is an origin of open world game and includes day/night cycle, weather change, opening/closing of shops, and NPCs who have their own schedules.\nShenmu has a lot of fans in the fascinated scenario and lively world, and keeps the position of \"the best game ever\".",
+      "id": 15
+    },
+    {
+      "name": "Need for Speed™ Heat Deluxe Edition",
+      "image": "../image/products/nfsheat.jfif",
+      "stok": 200,
+      "kategoriId": 6,
+      "harga": 908100,
+      "deskripsi": "Hustle by day and risk it all at night in Need for Speed™ Heat, a thrilling race experience that pits you against a city’s rogue police force as you battle your way into street racing’s elite.",
+      "id": 16
+    },
+    {
+      "name": "JUMP FORCE - Ultimate Edition",
+      "image": "../image/products/jumpforce.jfif",
+      "stok": 300,
+      "kategoriId": 4,
+      "harga": 1070000,
+      "deskripsi": "The most famous Manga heroes are thrown into a whole new battleground: our world. Uniting to fight the most dangerous threat, the Jump Force will bear the fate of the entire human kind.\n\nCreate your own avatar and jump into an original Story Mode to fight alonside the most powerful Manga heroes from DRAGON BALL Z, ONE PIECE, NARUTO, BLEACH, HUNTER X HUNTER, YU-GI-OH!, YU YU HAKUSHO, SAINT SEIYA and many others.",
+      "id": 17
+    },
+    {
+      "name": "DEAD OR ALIVE 6 Digital Deluxe Edition",
+      "image": "../image/products/doa6.jfif",
+      "stok": 200,
+      "kategoriId": 4,
+      "harga": 1107000,
+      "deskripsi": "The long-awaited new installment of the Team Ninja's top-class fighting game series DEAD OR ALIVE!\nWith brand-new stages and action, DEAD OR ALIVE 6 embodies and illustrates the evolution of true fighting entertainment!",
+      "id": 18
+    },
+    {
+      "name": "TEKKEN 7 - Rematch Edition",
+      "image": "../image/products/tekken7.jfif",
+      "stok": 350,
+      "kategoriId": 4,
+      "harga": 77000,
+      "deskripsi": "THE BEST FIGHTS ARE PERSONAL\n\nRaise your fists and get ready for the ultimate battle on the next generation of home consoles. Powered by the Unreal Engine 4, the storied fighting franchise returns for another round in TEKKEN 7. With the faithful 3D battle system and gameplay intact, TEKKEN 7 takes the franchise to the next level with photo-realistic graphics and new and innovative features and fighting mechanics. TEKKEN 7 resurrects the attitude, competiveness and showmanship rooted in its arcade DNA to provide the ultimate fighting game experience.",
+      "id": 19
+    },
+    {
+      "name": "The Dark Pictures Anthology: Man of Medan",
+      "image": "../image/products/manofmedan.jfif",
+      "stok": 130,
+      "kategoriId": 5,
+      "harga": 340000,
+      "deskripsi": "The Dark Pictures is a series of stand-alone, branching cinematic horror games also featuring a multiplayer mode.\n\nIn Man of Medan, five friends set sail on a holiday diving trip that soon changes into something much more sinister...",
+      "id": 20
+    },
+    {
+      "name": "Persona 5 The Royal",
+      "image": "../image/products/p5royal.jfif",
+      "stok": 300,
+      "kategoriId": 7,
+      "harga": 1228000,
+      "deskripsi": "That which must be changed must first be stolen. Persona 5 the Royal is finally here!\n\nPersona 5, the picaresque JRPG that sold over 2.7 million copies worldwide, winner of numerous game industry awards, returns with extra features and content! A brand-new playable character and expanded school year allow players to explore previously untold stories!\n\nLive your best student life with newly added events and activities. After class, new enemies and gimmicks will test your skills as a Phantom Thief. Be careful though, palaces and treasure may not be the same as you remember them!",
+      "id": 21
+    },
+    {
+      "name": "eFootball PES 2020",
+      "image": "../image/products/pes20.jfif",
+      "stok": 250,
+      "kategoriId": 9,
+      "harga": 342000,
+      "deskripsi": "Experience the most realistic and authentic football game with PES 2020!\n\nNew features:\n\n• GAMEPLAY: Take command of the ball like never before with new dynamic dribbling skills, new first touch techniques and finely-tuned ball physics, all developed in close consultation with renowned midfielder Andrés Iniesta\n\n• MATCHDAY: Pick a side and join forces with newcomers and veterans alike in a grand struggle for dominance in this new online competitive mode\n\n• MASTER LEAGUE: A completely revamped ML experience awaits — featuring a new interactive dialogue system, an overhauled menu design and a more realistic transfer market realized through improved data integration",
+      "id": 22
+    },
+    {
+      "name": "Battlefield™ V",
+      "image": "../image/products/bfv.jfif",
+      "stok": 400,
+      "kategoriId": 8,
+      "harga": 709000,
+      "deskripsi": "Enter mankind’s greatest conflict with Battlefield™ V as the series goes back to its roots in a never-before-seen portrayal of World War 2. Experience all-out multiplayer with your squad in the vast Grand Operations and the cooperative Combined Arms, or take on single player War Stories. As you fight in epic, unexpected locations across the globe, enjoy the richest, most immersive Battlefield yet. Now also includes Firestorm – Battle Royale, reimagined for Battlefield.",
+      "id": 23
+    }
+  ],
+  "kategoris": [
+    {
+      "id": 1,
+      "nama": "Action"
+    },
+    {
+      "id": 2,
+      "nama": "Adventure"
+    },
+    {
+      "id": 3,
+      "nama": "Arcade"
+    },
+    {
+      "id": 4,
+      "nama": "Fighting"
+    },
+    {
+      "id": 5,
+      "nama": "Horror"
+    },
+    {
+      "id": 6,
+      "nama": "Racing"
+    },
+    {
+      "id": 7,
+      "nama": "RPG"
+    },
+    {
+      "id": 8,
+      "nama": "Shooter"
+    },
+    {
+      "id": 9,
+      "nama": "Sports"
+    }
+  ],
+  "transactions": [
+    {
+      "status": "onprocess",
+      "userId": 3,
+      "id": 1,
+      "tanggal": "2020-03-23T07:33:29.159Z",
+      "metode": "cc"
+    },
+    {
+      "status": "cancelled",
+      "userId": 2,
+      "id": 2,
+      "tanggal": "2020-03-23T08:06:54.481Z",
+      "metode": "cc"
+    },
+    {
+      "status": "ondelivery",
+      "userId": 3,
+      "id": 3,
+      "tanggal": "2020-03-23T07:58:10.127Z",
+      "metode": "cc"
+    },
+    {
+      "status": "delivered",
+      "userId": 2,
+      "id": 4,
+      "tanggal": "2020-03-23T10:07:56.501Z",
+      "metode": "cc"
+    },
+    {
+      "status": "onprocess",
+      "userId": 3,
+      "id": 5,
+      "tanggal": "2020-03-23T11:26:25.898Z",
+      "metode": "cc"
+    },
+    {
+      "status": "oncart",
+      "userId": 3,
+      "id": 6
+    },
+    {
+      "status": "oncart",
+      "userId": 2,
+      "id": 7
+    }
+  ],
+  "transactiondetails": [
+    {
+      "transactionId": 1,
+      "productId": 5,
+      "qty": 1,
+      "totalharga": 841000,
+      "id": 1
+    },
+    {
+      "transactionId": 1,
+      "productId": 7,
+      "qty": 2,
+      "totalharga": 2278000,
+      "id": 2
+    },
+    {
+      "transactionId": 2,
+      "productId": 4,
+      "qty": 1,
+      "totalharga": 1189000,
+      "id": 3
+    },
+    {
+      "transactionId": 3,
+      "productId": 13,
+      "qty": 2,
+      "totalharga": 618000,
+      "id": 4
+    },
+    {
+      "transactionId": 3,
+      "productId": 19,
+      "qty": 3,
+      "totalharga": 231000,
+      "id": 5
+    },
+    {
+      "transactionId": 4,
+      "productId": 8,
+      "qty": 1,
+      "totalharga": 740000,
+      "id": 6
+    },
+    {
+      "transactionId": 4,
+      "productId": 11,
+      "qty": 2,
+      "totalharga": 2148000,
+      "id": 7
+    },
+    {
+      "transactionId": 5,
+      "productId": 10,
+      "qty": 1,
+      "totalharga": 1040000,
+      "id": 9
+    },
+    {
+      "transactionId": 5,
+      "productId": 4,
+      "qty": 1,
+      "totalharga": 1189000,
+      "id": 11
+    },
+    {
+      "transactionId": 5,
+      "productId": 2,
+      "qty": 3,
+      "totalharga": 2970000,
+      "id": 12
+    },
+    {
+      "transactionId": 5,
+      "productId": 7,
+      "qty": 2,
+      "totalharga": 2278000,
+      "id": 13
+    },
+    {
+      "transactionId": 6,
+      "productId": 5,
+      "qty": 1,
+      "totalharga": 841000,
+      "id": 14
+    },
+    {
+      "transactionId": 7,
+      "productId": 8,
+      "qty": 1,
+      "totalharga": 740000,
+      "id": 15
+    },
+    {
+      "transactionId": 7,
+      "productId": 2,
+      "qty": 1,
+      "totalharga": 990000,
+      "id": 16
+    },
+    {
+      "transactionId": 7,
+      "productId": 10,
+      "qty": 1,
+      "totalharga": 1040000,
+      "id": 17
+    },
+    {
+      "transactionId": 6,
+      "productId": 4,
+      "qty": 1,
+      "totalharga": 1189000,
+      "id": 18
+    }
+  ]
+}
